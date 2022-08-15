@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MonkeyFinder;
+namespace MonkeyFinder.Platforms.MacCatalyst;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

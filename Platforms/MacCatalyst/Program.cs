@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MonkeyFinder;
+namespace MonkeyFinder.Platforms.MacCatalyst;
 
 public class Program
 {
